@@ -1,0 +1,20 @@
+{
+    "name": "copyrenzhe/phptaf-ide-helper",
+    "description": "Phptaf IDE Helper, generates classes and functions, to improve auto-completion",
+    "keywords": ["phptaf", "taf", "ide", "helper", "phpstorm", "jce"],
+    "require": {
+        "php": ">=5.5.30"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "copyrenzhe",
+            "email": "copyrenzhe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "\\": "src/"
+        }
+    }
+}
