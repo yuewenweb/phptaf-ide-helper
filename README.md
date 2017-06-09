@@ -15,4 +15,4 @@ phptaf在IDE下自动识别类、函数，自动补全函数名
 
 ### PHPStorm 使用演示
 ![demo1](./imgs/1.png "demo1")
-![demo2](./imgs/1.png "demo2")
+![demo2](./imgs/2.png "demo2")
